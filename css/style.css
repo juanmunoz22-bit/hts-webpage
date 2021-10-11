@@ -289,7 +289,7 @@ input[type=number] {
   background: rgba(0, 0, 0, 0.8);
 }
 .text-tachado {
-  color: #black;
+  color: black;
   text-decoration: line-through;
   
 }
@@ -343,7 +343,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #fffff;
+  color: #ffffff;
   text-decoration: none;
 }
 
